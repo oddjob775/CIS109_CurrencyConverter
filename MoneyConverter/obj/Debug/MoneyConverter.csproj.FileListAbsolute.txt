@@ -1,0 +1,10 @@
+C:\Users\Troy\Documents\Coding\C#\Udemy\MoneyConverter\bin\Debug\MoneyConverter.exe.config
+C:\Users\Troy\Documents\Coding\C#\Udemy\MoneyConverter\bin\Debug\MoneyConverter.exe
+C:\Users\Troy\Documents\Coding\C#\Udemy\MoneyConverter\bin\Debug\MoneyConverter.pdb
+C:\Users\Troy\Documents\Coding\C#\Udemy\MoneyConverter\obj\Debug\MoneyConverter.csprojAssemblyReference.cache
+C:\Users\Troy\Documents\Coding\C#\Udemy\MoneyConverter\obj\Debug\MoneyConverter.Properties.Resources.resources
+C:\Users\Troy\Documents\Coding\C#\Udemy\MoneyConverter\obj\Debug\MoneyConverter.csproj.GenerateResource.cache
+C:\Users\Troy\Documents\Coding\C#\Udemy\MoneyConverter\obj\Debug\MoneyConverter.csproj.CoreCompileInputs.cache
+C:\Users\Troy\Documents\Coding\C#\Udemy\MoneyConverter\obj\Debug\MoneyConverter.exe
+C:\Users\Troy\Documents\Coding\C#\Udemy\MoneyConverter\obj\Debug\MoneyConverter.pdb
+C:\Users\Troy\Documents\Coding\C#\Udemy\MoneyConverter\obj\Debug\MoneyConverter.CurrencyConvert.resources
